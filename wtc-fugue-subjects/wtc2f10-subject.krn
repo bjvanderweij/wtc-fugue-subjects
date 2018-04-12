@@ -1,0 +1,99 @@
+!!!COM:      Bach, Johann Sebastian
+!!!CDT:      1685/03/31/-1750/07/28/
+!!!OPR@@GER: Das wohltemperirte Clavier
+!!!OVM@@GER: Band II
+!!!OPR@ENG:  Well-Tempered Clavier
+!!!OVM@ENG:  Book II
+!!!OTL:      Fugue
+!!!OKY:      E minor
+!!!ONM:      no. 10
+!!!SCT:      BWV 879
+!!!OMV:      2
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/2
+*met(c|)
+*MM104
+=1-
+12r
+12e
+12f#
+=2
+4g`
+16a
+16g
+16f#
+16g
+4a`
+16b
+16a
+16g
+16a
+=3
+4b`
+4g`
+4e`
+[4cc
+=4
+4cc]
+6b
+12dd#
+4ee`
+[4a
+=5
+4a]
+6g
+12dd#
+4ee`
+[4f#
+=6
+12f#]
+12g
+12a
+12g
+12f#
+12e
+12d#
+12cc
+12b
+12a
+12g
+12f#
+=7
+12g
+12a
+12b
+12a
+12g
+12f#
+12e
+12ee
+12dd
+4r
+==
+*-
+!!!AFR:  fugue
+!!!EFL:  68/96
+!!!END:  1994/02/08/
+!!!VID:  3505171576 Bach, BWV 879-02
+!!!AST:  Baroque
+!!!OCY:  Deutschland
+!!!ODT:  1742///
+!!!PDT:  1801///
+!!!EED:  Walter Hewlett
+!!!ENC:  Walter Hewlett
+!!!YOR:  Bach Gesellschaft Edition xiv
+!!!AFT:  enhanced SCORE
+!!!RDT:  2011/10/07/ by Andreas Kornstaedt using massScr2hmd
+!!!SCA1: Thematisch-systematisches Verzeichnis der musikalischen Werke 
+!!!SCA2: Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YEC1: Copyright 1994, 2000 Center for Computer Assisted Research 
+!!!YEC2: in the Humanities
+!!!YEM1: Rights to all derivative editions reserved.
+!!!YEM2: Refer to licensing agreement for further details.
+!!!YEN:  United States of America
+!!!ref:  @{OTL}, @{SCT}
+!!muse2ps: T^@{OTL} @{ONM} in @{OKY}^C^J.S. Bach\n@{SCT}-@{OMV}^
+!!muse2ps: u^@{OPR@ENG}, @{OVM@ENG}^j

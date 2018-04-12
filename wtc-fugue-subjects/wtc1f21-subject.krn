@@ -1,0 +1,88 @@
+!!!COM:      Bach, Johann Sebastian
+!!!CDT:      1685/03/31/-1750/07/28/
+!!!OPR@@GER: Das wohltemperirte Clavier
+!!!OVM@@GER: Band I
+!!!OPR@ENG:  Well-Tempered Clavier
+!!!OVM@ENG:  Book I
+!!!OTL:      Fugue
+!!!OKY:      B-flat major
+!!!ONM:      no. 21
+!!!SCT:      BWV 866
+!!!OMV:      2
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+*MM76
+=1-
+8r
+8f
+8g
+8f
+8b-
+8d
+=2
+8c
+16a
+16g
+16b-
+16a
+16g
+16f
+8cc
+8e-
+=3
+8d
+16b-
+16cc
+16a
+16b-
+16cc
+16dd
+16ee-
+16dd
+16cc
+16ee-
+=4
+16dd
+16cc
+16b-
+16cc
+16a
+16b-
+16cc
+16dd
+16ee-
+16dd
+16cc
+16ee-
+=5
+8.dd
+16r
+2r
+==
+*-
+!!!AFR:  fugue
+!!!EFL:  42/96
+!!!END:  1994/01/20/
+!!!VID:  1007370141 Bach, BWV 866-02
+!!!AST:  Baroque
+!!!OCY:  Deutschland
+!!!ODT:  1722///
+!!!PDT:  1801///
+!!!EED:  Walter Hewlett
+!!!ENC:  Walter Hewlett
+!!!YOR:  Bach Gesellschaft Edition xiv
+!!!AFT:  enhanced SCORE
+!!!RDT:  2011/10/07/ by Andreas Kornstaedt using massScr2hmd
+!!!SCA1: Thematisch-systematisches Verzeichnis der musikalischen Werke 
+!!!SCA2: Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YEC1: Copyright 1994, 2000 Center for Computer Assisted Research 
+!!!YEC2: in the Humanities
+!!!YEM1: Rights to all derivative editions reserved.
+!!!YEM2: Refer to licensing agreement for further details.
+!!!YEN:  United States of America
+!!!ref:  @{OTL}, @{SCT}
+!!muse2ps: T^@{OTL} @{ONM} in @{OKY}^C^J.S. Bach\n@{SCT}-@{OMV}^
+!!muse2ps: u^@{OPR@ENG}, @{OVM@ENG}^j

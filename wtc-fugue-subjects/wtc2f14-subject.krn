@@ -1,0 +1,71 @@
+!!!COM:      Bach, Johann Sebastian
+!!!CDT:      1685/03/31/-1750/07/28/
+!!!OPR@@GER: Das wohltemperirte Clavier
+!!!OVM@@GER: Band II
+!!!OPR@ENG:  Well-Tempered Clavier
+!!!OVM@ENG:  Book II
+!!!OTL:      Fugue
+!!!OKY:      F-sharp minor
+!!!ONM:      no. 14
+!!!SCT:      BWV 883
+!!!OMV:      2
+**kern	
+*clefF4	
+*k[f#c#g#]	
+*f#:	
+*M4/4	
+*met(c)	
+*MM73	
+=1-	
+4r	
+8r	
+8c#	
+8A	
+8F#	
+[4d	
+=2	
+8d]	
+16c#	
+16B	
+[4c#	
+8c#]	
+8f#	
+[4B	
+=3	
+8B]	
+16A	
+16G#	
+8A	
+8F#	
+2G#	
+=4	
+8F#	
+8G#	
+8A	
+8r	
+2r	
+==	
+*-	
+!!!AFR:  fugue
+!!!EFL:  76/96
+!!!END:  1994/02/11/
+!!!VID:  2991876676 Bach, BWV 883-02
+!!!AST:  Baroque
+!!!OCY:  Deutschland
+!!!ODT:  1742///
+!!!PDT:  1801///
+!!!EED:  Walter Hewlett
+!!!ENC:  Walter Hewlett
+!!!YOR:  Bach Gesellschaft Edition xiv
+!!!AFT:  enhanced SCORE
+!!!RDT:  2011/10/07/ by Andreas Kornstaedt using massScr2hmd
+!!!SCA1: Thematisch-systematisches Verzeichnis der musikalischen Werke 
+!!!SCA2: Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YEC1: Copyright 1994, 2000 Center for Computer Assisted Research 
+!!!YEC2: in the Humanities
+!!!YEM1: Rights to all derivative editions reserved.
+!!!YEM2: Refer to licensing agreement for further details.
+!!!YEN:  United States of America
+!!!ref:  @{OTL}, @{SCT}
+!!muse2ps: T^@{OTL} @{ONM} in @{OKY}^C^J.S. Bach\n@{SCT}-@{OMV}^
+!!muse2ps: u^@{OPR@ENG}, @{OVM@ENG}^j

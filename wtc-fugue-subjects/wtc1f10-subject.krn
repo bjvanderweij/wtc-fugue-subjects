@@ -1,0 +1,68 @@
+!!!COM:      Bach, Johann Sebastian
+!!!CDT:      1685/03/31/-1750/07/28/
+!!!OPR@@GER: Das wohltemperirte Clavier
+!!!OVM@@GER: Band I
+!!!OPR@ENG:  Well-Tempered Clavier
+!!!OVM@ENG:  Book I
+!!!OTL:      Fugue
+!!!OKY:      E minor
+!!!ONM:      no. 10
+!!!SCT:      BWV 855
+!!!OMV:      2
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+*MM72
+=1-
+16e
+16g
+16b
+16ee
+16dd#
+16ee
+16ddn
+16ee
+16cc#
+16ee
+16ccn
+16ee
+=2
+16b
+16ee
+16dd#
+16ee
+16a#
+16cc#
+16g
+16f#
+16g
+16a#X
+16f#
+16e
+==
+*-
+!!!AFR:  fugue
+!!!EFL:  20/96
+!!!END:  1994/01/12/
+!!!VID:  2077352840 Bach, BWV 855-02
+!!!AST:  Baroque
+!!!OCY:  Deutschland
+!!!ODT:  1722///
+!!!PDT:  1801///
+!!!EED:  Walter Hewlett
+!!!ENC:  Walter Hewlett
+!!!YOR:  Bach Gesellschaft Edition xiv
+!!!AFT:  enhanced SCORE
+!!!RDT:  2011/10/07/ by Andreas Kornstaedt using massScr2hmd
+!!!SCA1: Thematisch-systematisches Verzeichnis der musikalischen Werke 
+!!!SCA2: Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YEC1: Copyright 1994, 2000 Center for Computer Assisted Research 
+!!!YEC2: in the Humanities
+!!!YEM1: Rights to all derivative editions reserved.
+!!!YEM2: Refer to licensing agreement for further details.
+!!!YEN:  United States of America
+!!!ref:  @{OTL}, @{SCT}
+!!muse2ps: T^@{OTL} @{ONM} in @{OKY}^C^J.S. Bach\n@{SCT}-@{OMV}^
+!!muse2ps: u^@{OPR@ENG}, @{OVM@ENG}^j

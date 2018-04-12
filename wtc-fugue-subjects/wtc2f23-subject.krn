@@ -1,0 +1,59 @@
+!!!COM:      Bach, Johann Sebastian
+!!!CDT:      1685/03/31/-1750/07/28/
+!!!OPR@@GER: Das wohltemperirte Clavier
+!!!OVM@@GER: Band II
+!!!OPR@ENG:  Well-Tempered Clavier
+!!!OVM@ENG:  Book II
+!!!OTL:      Fugue
+!!!OKY:      B major
+!!!ONM:      no. 23
+!!!SCT:      BWV 892
+!!!OMV:      2
+**kern	
+*	
+*clefF4	
+*k[f#c#g#d#a#]	
+*B:	
+*M2/2	
+*met(c|)	
+*MM116	
+=1-	
+2BB	
+2D#	
+=2	
+2G#	
+2E	
+=3	
+2C#	
+2A#	
+=4	
+4B	
+8A#	
+8G#	
+4F#	
+4E	
+==	
+*-	
+!!!AFR:  fugue
+!!!EFL:  94/96
+!!!END:  1994/02/17/
+!!!VID:  931209766 Bach, BWV 892-02
+!!!AST:  Baroque
+!!!OCY:  Deutschland
+!!!ODT:  1742///
+!!!PDT:  1801///
+!!!EED:  Walter Hewlett
+!!!ENC:  Walter Hewlett
+!!!YOR:  Bach Gesellschaft Edition xiv
+!!!AFT:  enhanced SCORE
+!!!RDT:  2011/10/07/ by Andreas Kornstaedt using massScr2hmd
+!!!SCA1: Thematisch-systematisches Verzeichnis der musikalischen Werke 
+!!!SCA2: Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YEC1: Copyright 1994, 2000 Center for Computer Assisted Research 
+!!!YEC2: in the Humanities
+!!!YEM1: Rights to all derivative editions reserved.
+!!!YEM2: Refer to licensing agreement for further details.
+!!!YEN:  United States of America
+!!!ref:  @{OTL}, @{SCT}
+!!muse2ps: T^@{OTL} @{ONM} in @{OKY}^C^J.S. Bach\n@{SCT}-@{OMV}^
+!!muse2ps: u^@{OPR@ENG}, @{OVM@ENG}^j

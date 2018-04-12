@@ -1,0 +1,65 @@
+!!!CDT:      1685/03/31/-1750/07/28/
+!!!OPR@@GER: Das wohltemperirte Clavier
+!!!OVM@@GER: Band I
+!!!OPR@ENG:  Well-Tempered Clavier
+!!!OVM@ENG:  Book I
+!!!OTL:      Fugue
+!!!OKY:      F major
+!!!ONM:      no. 11
+!!!SCT:      BWV 856
+!!!OMV:      2
+**kern	
+*clefF4	
+*k[b-]	
+*F:	
+*M3/8	
+*MM76	
+=1-	
+8c	
+=2	
+8d	
+8c	
+8B-	
+=3	
+8c	
+16E	
+16F	
+16G	
+16A	
+=4	
+8B-	
+16c	
+16B-	
+16A	
+16G	
+=5	
+16A	
+16G	
+16F	
+16G	
+8r	
+==	
+*-	
+!!!AFR:  fugue
+!!!EFL:  22/96
+!!!END:  1994/01/13/
+!!!VID:  618893430 Bach, BWV 856-02
+!!!AST:  Baroque
+!!!OCY:  Deutschland
+!!!ODT:  1722///
+!!!PDT:  1801///
+!!!EED:  Walter Hewlett
+!!!ENC:  Walter Hewlett
+!!!YOR:  Bach Gesellschaft Edition xiv
+!!!AFT:  enhanced SCORE
+!!!RDT:  2011/10/07/ by Andreas Kornstaedt using massScr2hmd
+!!!SCA1: Thematisch-systematisches Verzeichnis der musikalischen Werke 
+!!!SCA2: Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YEC1: Copyright 1994, 2000 Center for Computer Assisted Research 
+!!!YEC2: in the Humanities
+!!!YEM1: Rights to all derivative editions reserved.
+!!!YEM2: Refer to licensing agreement for further details.
+!!!YEN:  United States of America
+!!!ref:  @{OTL}, @{SCT}
+!!muse2ps: T^@{OTL} @{ONM} in @{OKY}^C^J.S. Bach\n@{SCT}-@{OMV}^
+!!muse2ps: u^@{OPR@ENG}, @{OVM@ENG}^j
